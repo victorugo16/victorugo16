@@ -1,4 +1,7 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Victor</h1>
+<h3 align="center">I'm passionate about technology and I'm always looking for more information about this area, which is simply wonderful.</h3>
+
+
 
 ## 📊 My Github Stats
 
